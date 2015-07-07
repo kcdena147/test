@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 step2
 
 step3
-=======
->>>>>>> parent of 57f6ee0... step2
+
